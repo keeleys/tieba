@@ -85,6 +85,7 @@ public class Client {
 		if(enable!=1)
 		{
 			log.info("配置文件" + configName + "不执行状态");
+			return;
 		}
 		log.info("配置文件" + configName + " 初始化完毕");
 

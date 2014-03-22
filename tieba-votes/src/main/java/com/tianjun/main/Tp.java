@@ -16,12 +16,8 @@ import com.tianjun.util.PostUtils;
 import com.tianjun.util.ReplyUtil;
 
 public class Tp implements Runnable{
-	class ResultJson{
-		private int no;
-	}
 	class PollControl implements Runnable{
 		private Bduss b;
-		
 		public PollControl(Bduss b) {
 			super();
 			this.b = b;
@@ -41,6 +37,9 @@ public class Tp implements Runnable{
 			}
 		}
 		
+	}
+	class ResultJson{
+		private int no;
 	}
 	private static Logger log = Logger.getLogger(Tp.class);
 	public	static List<Bduss > findBduss(String icid) throws Exception{
@@ -66,19 +65,23 @@ public class Tp implements Runnable{
 	private int rSum=0;
 	private PollBean pollBean;
 	private List<Bduss> bdussList;
+	private Long sleep;
 	private List<Bduss> errList=new ArrayList<Bduss>();
 	public Tp(PollBean pollBean, List<Bduss> bdussList) {
 		super();
 		this.pollBean = pollBean;
 		this.bdussList = bdussList;
 	}
+	public List<Bduss> getBdussList() {
+		return bdussList;
+	}
 	public List<Bduss> getErrList() {
 		return errList;
 	}
-
 	public PollBean getPollBean() {
 		return pollBean;
 	}
+
 	public String getPollParam(String tbs) throws UnsupportedEncodingException{
 			StringBuffer param=new StringBuffer();
 			
@@ -91,6 +94,9 @@ public class Tp implements Runnable{
 			param.append("&thread_id="+pollBean.getThreadid());
 			param.append("&forum_id="+pollBean.getForumid());
 			return param.toString();
+	}
+	public Long getSleep() {
+		return sleep;
 	}
 	public String getTbs(String cookie) throws Exception{
 		
@@ -183,8 +189,9 @@ public class Tp implements Runnable{
 		try {
 			long start = System.currentTimeMillis();
 			for(Bduss b :bdussList){
-				new Thread(new PollControl(b)).run();
-				//Thread.sleep(60*1000);
+				new Thread(new PollControl(b)).start();
+				if(sleep!=null)
+					Thread.sleep(sleep);
 			}
 			long end =System.currentTimeMillis()-start;
 			log.info(pollBean.getUsername()+"的投票结果,用时"+end+"毫秒,总共"+bdussList.size()+",成功:"+rSum);
@@ -194,18 +201,19 @@ public class Tp implements Runnable{
 		
 		writeErr();
 	}
+	public void setBdussList(List<Bduss> bdussList) {
+		this.bdussList = bdussList;
+	}
 	public void setErrList(List<Bduss> errList) {
 		this.errList = errList;
 	}
+	
 	public void setPollBean(PollBean pollBean) {
 		this.pollBean = pollBean;
 	}
-	
-	public List<Bduss> getBdussList() {
-		return bdussList;
-	}
-	public void setBdussList(List<Bduss> bdussList) {
-		this.bdussList = bdussList;
+	public Tp setSleep(Long sleep) {
+		this.sleep = sleep;
+		return this;
 	}
 	public void writeErr(){
 		FileWriter write=null;
