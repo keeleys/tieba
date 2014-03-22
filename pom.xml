@@ -30,6 +30,7 @@
 	<modules>
 		<module>tieba-votes</module>
 		<module>tieba-core</module>
+		<module>tieba-reply</module>
 	</modules>
 
 	<dependencyManagement>
