@@ -1,0 +1,51 @@
+<#escape x as x?html>
+
+<@h.easyui />
+
+<body>
+<input type="hidden" name="commTabId" id="commTabId" value="${commTabId!''}"  />
+<!--input  hidden  Start-->
+	<input type="hidden" id="id" name="id" value="${(vest.id)!''}"/>	
+<!--input  hidden  End-->
+	<table class="tb_6">	
+		<!-- Start-->
+			<tr>
+				<th>name:</th>	
+					<!-- 字符型 -->
+					<td>
+					${(vest.name)!''} 
+					</td>	
+			</tr>
+			<tr>
+				<th>password:</th>	
+					<!-- 字符型 -->
+					<td>
+					${(vest.password)!''} 
+					</td>	
+			</tr>
+			<tr>
+				<th>bduss:</th>	
+					<!-- 字符型 -->
+					<td>
+					${(vest.bduss)!''} 
+					</td>	
+			</tr>
+			<tr>
+				<th>status:</th>	
+					<!-- 字符型 -->
+					<td>
+					${(vest.status)!''} 
+					</td>	
+			</tr>
+			<tr>
+				<th>updateTime:</th>	
+					<!--日期型-->
+					<td>
+					  ${((vest.updateTime)?string('yyyy-MM-dd'))!'' }
+					</td>
+		
+			</tr>
+	</table>
+	</body>
+</html>
+</#escape>

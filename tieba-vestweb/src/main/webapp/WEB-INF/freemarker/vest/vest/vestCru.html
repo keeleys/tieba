@@ -1,0 +1,66 @@
+<#escape x as x?html>
+
+<@h.easyui />
+<script type="text/javascript" src="${ctx}/js/vest/vest/vestCru.js"></script>
+
+		<script type="text/javascript" src="${ctx}/js/my97/WdatePicker.js"></script>
+
+
+<script type="text/javascript">
+<!--
+jQuery(document).ready(function(){
+
+});
+//-->
+</script>
+
+<body>
+<form id="updateForm" name="updateForm"  method="post" action="${ctx}/vest/update" >
+<input type="hidden" name="commTabId" id="commTabId" value="${commTabId!''}"  />
+<!--input  hidden  Start-->
+	<input type="hidden" id="id" name="id" value="${(vest.id)!''}"/>	
+<!--input  hidden  End-->
+	<table class="tb_6">	
+		<!-- Start-->
+			<tr>
+				<th>百度ID:</th>	
+					<!-- 字符型 -->
+					<td>
+					<input type="text" id="name" name="name" value="${(vest.name)!''}" maxlength="100"  />
+					</td>	
+			</tr>
+			<tr>
+				<th>百度密码:</th>	
+					<!-- 字符型 -->
+					<td>
+					<input type="text" id="password" name="password" value="${(vest.password)!''}" maxlength="100"  />
+					</td>	
+			</tr>
+			<tr>
+				<th>bduss:</th>	
+					<!-- 字符型 -->
+					<td>
+					<input type="text" id="bduss" name="bduss" value="${(vest.bduss)!''}" maxlength="100"  />
+					</td>	
+			</tr>
+			<tr>
+				<th>状态:</th>	
+					<!-- 字符型 -->
+					<td>
+					<input type="text" id="status" name="status" value="${(vest.status)!''}" maxlength="10"  />
+					</td>	
+			</tr>
+			<tr>
+				<th>更新时间:</th>	
+					<!--日期型-->
+					<td>
+					<input type="text" id="updateTime" name="updateTime" 
+					style="width:150px;" onfocus="WdatePicker({dateFmt:'yyyy-MM-dd'})" readonly="readonly" value="${((vest.updateTime)?string('yyyy-MM-dd'))!'' }" />
+					</td>
+			</tr>
+	</table>
+	<input type="button" onclick="submitUpdateForm();" class="btn_7"/>
+</form>
+</body>
+</html>
+</#escape>

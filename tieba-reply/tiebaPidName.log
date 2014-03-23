@@ -1,0 +1,186 @@
+03-22 21:41:09.138[INFO ] 设计者:贴吧生活
+03-22 21:41:09.139[INFO ] 最后更新时间:2014-01-24
+03-22 21:41:09.140[INFO ] 开始任务 初始化配置文件
+03-22 21:41:09.140[INFO ] 检测到文件偷你一笑.properties
+03-22 21:41:09.154[INFO ] 检测到文件只是可惜.properties
+03-22 21:41:09.154[INFO ] 检测到文件小心心哟.properties
+03-22 21:41:09.154[INFO ] 检测到文件我的田俊.properties
+03-22 21:41:09.155[INFO ] 检测到文件撒旦的宠物猫猫.properties
+03-22 21:41:09.155[INFO ] 程序执行完毕
+03-22 21:41:09.158[INFO ] 配置文件conf\我的田俊.properties 初始化完毕
+03-22 21:41:09.158[INFO ] 配置文件conf\只是可惜.properties不执行状态
+03-22 21:41:09.158[INFO ] 配置文件conf\小心心哟.properties不执行状态
+03-22 21:41:09.158[INFO ] 配置文件conf\撒旦的宠物猫猫.properties不执行状态
+03-22 21:41:09.158[INFO ] 配置文件conf\偷你一笑.properties不执行状态
+03-22 21:41:09.159[INFO ] 配置文件conf\撒旦的宠物猫猫.properties 初始化完毕
+03-22 21:41:09.158[INFO ] 配置文件conf\小心心哟.properties 初始化完毕
+03-22 21:41:09.158[INFO ] 配置文件conf\只是可惜.properties 初始化完毕
+03-22 21:41:09.159[INFO ] 配置文件conf\偷你一笑.properties 初始化完毕
+03-22 21:41:12.259[INFO ] 达到条件 正在准备回复
+03-22 21:41:12.259[INFO ] 达到条件 正在准备回复
+03-22 21:41:12.259[INFO ] 准备进行回复，总执行次数3
+03-22 21:41:12.259[INFO ] 准备进行回复，总执行次数10
+03-22 21:41:12.316[ERROR] 发贴异常 +java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 3
+03-22 21:41:12.316[ERROR] 结果解析异常 java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+03-22 21:41:12.317[ERROR] 回复异常java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 3
+03-22 21:41:12.560[INFO ] 准备进行回复，总执行次数5
+03-22 21:41:12.988[INFO ] 我的田俊,回复成功 
+03-22 21:41:13.221[INFO ] 偷你一笑,回复成功 
+03-22 21:41:13.838[INFO ] 偷你一笑,回复成功 
+03-22 21:41:14.784[ERROR] 偷你一笑您说话太快了:) 请先停下来喝杯茶吧 ,no=220034
+03-22 21:41:14.807[INFO ] 小心心哟,回复成功 
+03-22 21:41:15.316[INFO ] 我的田俊,回复成功 
+03-22 21:41:15.718[INFO ] 偷你一笑,回复成功 
+03-22 21:41:16.660[ERROR] 偷你一笑您说话太快了:) 请先停下来喝杯茶吧 ,no=220034
+03-22 21:41:16.842[INFO ] 小心心哟,回复成功 
+03-22 21:41:16.959[INFO ] 我的田俊,回复成功 
+03-22 21:43:27.394[INFO ] 设计者:贴吧生活
+03-22 21:43:27.396[INFO ] 最后更新时间:2014-01-24
+03-22 21:43:27.396[INFO ] 开始任务 初始化配置文件
+03-22 21:43:27.397[INFO ] 检测到文件偷你一笑.properties
+03-22 21:43:27.397[INFO ] 检测到文件只是可惜.properties
+03-22 21:43:27.398[INFO ] 检测到文件小心心哟.properties
+03-22 21:43:27.398[INFO ] 检测到文件我的田俊.properties
+03-22 21:43:27.399[INFO ] 检测到文件撒旦的宠物猫猫.properties
+03-22 21:43:27.400[INFO ] 程序执行完毕
+03-22 21:43:27.401[INFO ] 配置文件conf\小心心哟.properties不执行状态
+03-22 21:43:27.402[INFO ] 配置文件conf\撒旦的宠物猫猫.properties不执行状态
+03-22 21:43:27.402[INFO ] 配置文件conf\小心心哟.properties 初始化完毕
+03-22 21:43:27.402[INFO ] 配置文件conf\我的田俊.properties 初始化完毕
+03-22 21:43:27.401[INFO ] 配置文件conf\只是可惜.properties不执行状态
+03-22 21:43:27.401[INFO ] 配置文件conf\偷你一笑.properties不执行状态
+03-22 21:43:27.403[INFO ] 配置文件conf\偷你一笑.properties 初始化完毕
+03-22 21:43:27.402[INFO ] 配置文件conf\只是可惜.properties 初始化完毕
+03-22 21:43:27.402[INFO ] 配置文件conf\撒旦的宠物猫猫.properties 初始化完毕
+03-22 21:43:30.210[INFO ] 准备进行回复，总执行次数5
+03-22 21:43:30.483[INFO ] 视频文件处理完毕
+03-22 21:43:30.836[INFO ] 我的田俊,回复成功 
+03-22 21:43:30.866[INFO ] 达到条件 正在准备回复
+03-22 21:43:30.867[INFO ] 准备进行回复，总执行次数5
+03-22 21:43:30.903[INFO ] 达到条件 正在准备回复
+03-22 21:43:30.904[INFO ] 准备进行回复，总执行次数10
+03-22 21:43:30.920[ERROR] 发贴异常 +java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 3
+03-22 21:43:30.921[ERROR] 结果解析异常 java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+03-22 21:43:30.921[ERROR] 回复异常java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 3
+03-22 21:43:31.330[INFO ] 只是可惜,回复成功 
+03-22 21:43:31.437[INFO ] 指定回复22207楼,目前901楼
+03-22 21:44:31.842[INFO ] 设计者:贴吧生活
+03-22 21:44:31.844[INFO ] 最后更新时间:2014-01-24
+03-22 21:44:31.845[INFO ] 开始任务 初始化配置文件
+03-22 21:44:31.845[INFO ] 检测到文件偷你一笑.properties
+03-22 21:44:31.847[INFO ] 检测到文件只是可惜.properties
+03-22 21:44:31.847[INFO ] 检测到文件小心心哟.properties
+03-22 21:44:31.847[INFO ] 检测到文件我的田俊.properties
+03-22 21:44:31.848[INFO ] 检测到文件撒旦的宠物猫猫.properties
+03-22 21:44:31.848[INFO ] 程序执行完毕
+03-22 21:44:31.851[INFO ] 配置文件conf\只是可惜.properties不执行状态
+03-22 21:44:31.851[INFO ] 配置文件conf\我的田俊.properties 初始化完毕
+03-22 21:44:31.852[INFO ] 配置文件conf\偷你一笑.properties不执行状态
+03-22 21:44:31.852[INFO ] 配置文件conf\小心心哟.properties不执行状态
+03-22 21:44:31.851[INFO ] 配置文件conf\撒旦的宠物猫猫.properties不执行状态
+03-22 21:44:36.654[INFO ] 设计者:贴吧生活
+03-22 21:44:36.657[INFO ] 最后更新时间:2014-01-24
+03-22 21:44:36.657[INFO ] 开始任务 初始化配置文件
+03-22 21:44:36.657[INFO ] 检测到文件偷你一笑.properties
+03-22 21:44:36.658[INFO ] 检测到文件只是可惜.properties
+03-22 21:44:36.658[INFO ] 检测到文件小心心哟.properties
+03-22 21:44:36.659[INFO ] 检测到文件我的田俊.properties
+03-22 21:44:36.659[INFO ] 检测到文件撒旦的宠物猫猫.properties
+03-22 21:44:36.659[INFO ] 程序执行完毕
+03-22 21:44:36.661[INFO ] 配置文件conf\撒旦的宠物猫猫.properties不执行状态
+03-22 21:44:36.662[INFO ] 配置文件conf\偷你一笑.properties不执行状态
+03-22 21:44:36.661[INFO ] 配置文件conf\只是可惜.properties不执行状态
+03-22 21:44:36.661[INFO ] 配置文件conf\小心心哟.properties不执行状态
+03-22 21:44:36.661[INFO ] 配置文件conf\我的田俊.properties 初始化完毕
+03-22 21:47:10.320[INFO ] 设计者:贴吧生活
+03-22 21:47:10.323[INFO ] 最后更新时间:2014-01-24
+03-22 21:47:10.324[INFO ] 开始任务 初始化配置文件
+03-22 21:47:10.324[INFO ] 检测到文件偷你一笑.properties
+03-22 21:47:10.326[INFO ] 检测到文件只是可惜.properties
+03-22 21:47:10.326[INFO ] 检测到文件小心心哟.properties
+03-22 21:47:10.327[INFO ] 检测到文件我的田俊.properties
+03-22 21:47:10.327[INFO ] 检测到文件撒旦的宠物猫猫.properties
+03-22 21:47:10.328[INFO ] 程序执行完毕
+03-22 21:47:10.332[INFO ] 配置文件conf\小心心哟.properties不执行状态
+03-22 21:47:10.332[INFO ] 配置文件conf\撒旦的宠物猫猫.properties不执行状态
+03-22 21:47:10.333[INFO ] 配置文件conf\只是可惜.properties不执行状态
+03-22 21:47:10.332[INFO ] 配置文件conf\我的田俊.properties 初始化完毕
+03-22 21:47:10.333[INFO ] 配置文件conf\偷你一笑.properties不执行状态
+03-22 21:47:10.336[DEBUG] 获取用户名 贴吧forum_id ,forum_name,回复数
+03-22 21:47:12.510[DEBUG] {"no":0,"data":{"session_id":"TZMRG12QzlZNXRqZXVya1lIdDZlQTM5SUN3NXItNXBhWUNPa01JVTFnYk5MVUJUQ","user_portrait":"ddd2ced2b5c4ccefbfa19a2f","user_name_url":"%CE%D2%B5%C4%CC%EF%BF%A1","user_name_weak":"\u6211\u7684\u7530\u4fca","user_name_link":null,"user_itieba_id":null,"user_name_show":"\u6211\u7684\u7530\u4fca","user_is_verify":0,"is_login":true,"weak_pwd":false,"is_half_user":0,"source_id":0,"no_un":0,"mobilephone":"","email":"702***@qq.com","open_uid":3526071109,"client_msg_count":60,"user_open_space":0},"error":""}
+03-22 21:47:12.516[DEBUG] 检测到到用户我的田俊
+03-22 21:47:12.519[INFO ] 准备进行回复，总执行次数5
+03-22 21:47:12.595[DEBUG] {"tbs":"bb2790d927e3a8c01395496032","is_login":1}
+03-22 21:47:12.599[DEBUG] 视频文件准备处理：http://v.qq.com/cover/j/j5kqrx47bius9t0.html
+03-22 21:47:12.819[INFO ] 视频文件处理完毕
+03-22 21:47:13.187[DEBUG] {"no":0,"err_code":0,"error":"","data":{"autoMsg":"","fid":3975834,"fname":"\u7b2c\u4e00\u6b21\u4eb2\u5bc6\u7684\u63a5\u89e6","tid":2741375280,"is_login":1,"content":"test2<br>test3<br><div class=\"video_src_wrapper\"><embed allowfullscreen=\"true\" pluginspage=\"http:\/\/www.macromedia.com\/go\/getflashplayer\" type=\"application\/x-shockwave-flash\" wmode=\"transparent\" play=\"true\" loop=\"false\" menu=\"false\" allowscriptaccess=\"never\" scale=\"noborder\" src=\"http:\/\/static.video.qq.com\/TPout.swf?vid=9xs85KNyOhY&showend=1&title=%E5%8F%98%E8%BA%AB%E7%94%B7%E5%A5%B3\" class=\"BDE_Flash\" width=\"500\" height=\"450\" vsrc=\"http:\/\/v.qq.com\/cover\/j\/j5kqrx47bius9t0.html\" vpic=\"http:\/\/vpic.video.qq.com\/30644147\/9xs85KNyOhY_160_90_3.jpg\" pkey=\"20699abe075ac0b5231ba5a0b063ffc6\"><span class=\"apc_src_wrapper\">\u89c6\u9891\u6765\u81ea\uff1a<a href=\"http:\/\/v.qq.com\/cover\/j\/j5kqrx47bius9t0.html\" target=\"_blank\">\u817e\u8baf\u89c6\u9891<\/a><\/span><\/div>","vcode":{"need_vcode":0,"str_reason":"\u5e26\u56fe\u8d34\u5148\u53d1\u540e\u5ba1","captcha_vcode_str":"","captcha_code_type":0,"userstatevcode":0}}}
+03-22 21:47:13.190[INFO ] 我的田俊,回复成功 
+03-22 21:47:14.598[DEBUG] {"tbs":"246b6cce8078f6601395496034","is_login":1}
+03-22 21:47:14.600[DEBUG] 视频文件准备处理：http://v.qq.com/cover/j/j5kqrx47bius9t0.html
+03-22 21:47:14.804[INFO ] 视频文件处理完毕
+03-22 21:47:15.254[DEBUG] {"no":0,"err_code":0,"error":"","data":{"autoMsg":"","fid":3975834,"fname":"\u7b2c\u4e00\u6b21\u4eb2\u5bc6\u7684\u63a5\u89e6","tid":2741375280,"is_login":1,"content":"test2<br>test3<br><div class=\"video_src_wrapper\"><embed allowfullscreen=\"true\" pluginspage=\"http:\/\/www.macromedia.com\/go\/getflashplayer\" type=\"application\/x-shockwave-flash\" wmode=\"transparent\" play=\"true\" loop=\"false\" menu=\"false\" allowscriptaccess=\"never\" scale=\"noborder\" src=\"http:\/\/static.video.qq.com\/TPout.swf?vid=9xs85KNyOhY&showend=1&title=%E5%8F%98%E8%BA%AB%E7%94%B7%E5%A5%B3\" class=\"BDE_Flash\" width=\"500\" height=\"450\" vsrc=\"http:\/\/v.qq.com\/cover\/j\/j5kqrx47bius9t0.html\" vpic=\"http:\/\/vpic.video.qq.com\/30644147\/9xs85KNyOhY_160_90_3.jpg\" pkey=\"20699abe075ac0b5231ba5a0b063ffc6\"><span class=\"apc_src_wrapper\">\u89c6\u9891\u6765\u81ea\uff1a<a href=\"http:\/\/v.qq.com\/cover\/j\/j5kqrx47bius9t0.html\" target=\"_blank\">\u817e\u8baf\u89c6\u9891<\/a><\/span><\/div>","vcode":{"need_vcode":0,"str_reason":"\u5e26\u56fe\u8d34\u5148\u53d1\u540e\u5ba1","captcha_vcode_str":"","captcha_code_type":0,"userstatevcode":0}}}
+03-22 21:47:15.255[INFO ] 我的田俊,回复成功 
+03-22 21:47:16.594[DEBUG] {"tbs":"72a19cbbdea3b44e1395496036","is_login":1}
+03-22 21:47:16.596[DEBUG] 视频文件准备处理：http://v.qq.com/cover/j/j5kqrx47bius9t0.html
+03-22 21:47:16.787[INFO ] 视频文件处理完毕
+03-22 21:47:17.153[DEBUG] {"no":0,"err_code":0,"error":"","data":{"autoMsg":"","fid":3975834,"fname":"\u7b2c\u4e00\u6b21\u4eb2\u5bc6\u7684\u63a5\u89e6","tid":2741375280,"is_login":1,"content":"test2<br>test3<br><div class=\"video_src_wrapper\"><embed allowfullscreen=\"true\" pluginspage=\"http:\/\/www.macromedia.com\/go\/getflashplayer\" type=\"application\/x-shockwave-flash\" wmode=\"transparent\" play=\"true\" loop=\"false\" menu=\"false\" allowscriptaccess=\"never\" scale=\"noborder\" src=\"http:\/\/static.video.qq.com\/TPout.swf?vid=9xs85KNyOhY&showend=1&title=%E5%8F%98%E8%BA%AB%E7%94%B7%E5%A5%B3\" class=\"BDE_Flash\" width=\"500\" height=\"450\" vsrc=\"http:\/\/v.qq.com\/cover\/j\/j5kqrx47bius9t0.html\" vpic=\"http:\/\/vpic.video.qq.com\/30644147\/9xs85KNyOhY_160_90_3.jpg\" pkey=\"20699abe075ac0b5231ba5a0b063ffc6\"><span class=\"apc_src_wrapper\">\u89c6\u9891\u6765\u81ea\uff1a<a href=\"http:\/\/v.qq.com\/cover\/j\/j5kqrx47bius9t0.html\" target=\"_blank\">\u817e\u8baf\u89c6\u9891<\/a><\/span><\/div>","vcode":{"need_vcode":0,"str_reason":"\u5e26\u56fe\u8d34\u5148\u53d1\u540e\u5ba1","captcha_vcode_str":"","captcha_code_type":0,"userstatevcode":0}}}
+03-22 21:47:17.155[INFO ] 我的田俊,回复成功 
+03-22 21:47:18.600[DEBUG] {"tbs":"c8f11b156dbd92311395496038","is_login":1}
+03-22 21:47:18.602[DEBUG] 视频文件准备处理：http://v.qq.com/cover/j/j5kqrx47bius9t0.html
+03-22 21:47:18.783[INFO ] 视频文件处理完毕
+03-22 21:47:19.358[DEBUG] {"no":0,"err_code":0,"error":"","data":{"autoMsg":"","fid":3975834,"fname":"\u7b2c\u4e00\u6b21\u4eb2\u5bc6\u7684\u63a5\u89e6","tid":2741375280,"is_login":1,"content":"test2<br>test3<br><div class=\"video_src_wrapper\"><embed allowfullscreen=\"true\" pluginspage=\"http:\/\/www.macromedia.com\/go\/getflashplayer\" type=\"application\/x-shockwave-flash\" wmode=\"transparent\" play=\"true\" loop=\"false\" menu=\"false\" allowscriptaccess=\"never\" scale=\"noborder\" src=\"http:\/\/static.video.qq.com\/TPout.swf?vid=9xs85KNyOhY&showend=1&title=%E5%8F%98%E8%BA%AB%E7%94%B7%E5%A5%B3\" class=\"BDE_Flash\" width=\"500\" height=\"450\" vsrc=\"http:\/\/v.qq.com\/cover\/j\/j5kqrx47bius9t0.html\" vpic=\"http:\/\/vpic.video.qq.com\/30644147\/9xs85KNyOhY_160_90_3.jpg\" pkey=\"20699abe075ac0b5231ba5a0b063ffc6\"><span class=\"apc_src_wrapper\">\u89c6\u9891\u6765\u81ea\uff1a<a href=\"http:\/\/v.qq.com\/cover\/j\/j5kqrx47bius9t0.html\" target=\"_blank\">\u817e\u8baf\u89c6\u9891<\/a><\/span><\/div>","vcode":{"need_vcode":0,"str_reason":"\u5e26\u56fe\u8d34\u5148\u53d1\u540e\u5ba1","captcha_vcode_str":"","captcha_code_type":0,"userstatevcode":0}}}
+03-22 21:47:19.359[INFO ] 我的田俊,回复成功 
+03-22 21:47:20.599[DEBUG] {"tbs":"a77f97c91867917e1395496040","is_login":1}
+03-22 21:47:20.602[DEBUG] 视频文件准备处理：http://v.qq.com/cover/j/j5kqrx47bius9t0.html
+03-22 21:47:20.813[INFO ] 视频文件处理完毕
+03-22 21:47:21.247[DEBUG] {"no":0,"err_code":0,"error":"","data":{"autoMsg":"","fid":3975834,"fname":"\u7b2c\u4e00\u6b21\u4eb2\u5bc6\u7684\u63a5\u89e6","tid":2741375280,"is_login":1,"content":"test2<br>test3<br><div class=\"video_src_wrapper\"><embed allowfullscreen=\"true\" pluginspage=\"http:\/\/www.macromedia.com\/go\/getflashplayer\" type=\"application\/x-shockwave-flash\" wmode=\"transparent\" play=\"true\" loop=\"false\" menu=\"false\" allowscriptaccess=\"never\" scale=\"noborder\" src=\"http:\/\/static.video.qq.com\/TPout.swf?vid=9xs85KNyOhY&showend=1&title=%E5%8F%98%E8%BA%AB%E7%94%B7%E5%A5%B3\" class=\"BDE_Flash\" width=\"500\" height=\"450\" vsrc=\"http:\/\/v.qq.com\/cover\/j\/j5kqrx47bius9t0.html\" vpic=\"http:\/\/vpic.video.qq.com\/30644147\/9xs85KNyOhY_160_90_3.jpg\" pkey=\"20699abe075ac0b5231ba5a0b063ffc6\"><span class=\"apc_src_wrapper\">\u89c6\u9891\u6765\u81ea\uff1a<a href=\"http:\/\/v.qq.com\/cover\/j\/j5kqrx47bius9t0.html\" target=\"_blank\">\u817e\u8baf\u89c6\u9891<\/a><\/span><\/div>","vcode":{"need_vcode":0,"str_reason":"\u5e26\u56fe\u8d34\u5148\u53d1\u540e\u5ba1","captcha_vcode_str":"","captcha_code_type":0,"userstatevcode":0}}}
+03-22 21:47:21.250[INFO ] 我的田俊,回复成功 
+03-22 21:51:44.842[INFO ] 设计者:贴吧生活
+03-22 21:51:44.844[INFO ] 最后更新时间:2014-01-24
+03-22 21:51:44.844[INFO ] 开始任务 初始化配置文件
+03-22 21:51:44.845[INFO ] 检测到文件偷你一笑.properties
+03-22 21:51:44.846[INFO ] 检测到文件只是可惜.properties
+03-22 21:51:44.847[INFO ] 检测到文件小心心哟.properties
+03-22 21:51:44.847[INFO ] 检测到文件我的田俊.properties
+03-22 21:51:44.848[INFO ] 检测到文件撒旦的宠物猫猫.properties
+03-22 21:51:44.848[INFO ] 程序执行完毕
+03-22 21:51:44.851[INFO ] 配置文件conf\只是可惜.properties不执行状态
+03-22 21:51:44.851[INFO ] 配置文件conf\我的田俊.properties 初始化完毕
+03-22 21:51:44.851[INFO ] 配置文件conf\小心心哟.properties不执行状态
+03-22 21:51:44.852[INFO ] 配置文件conf\撒旦的宠物猫猫.properties不执行状态
+03-22 21:51:44.851[INFO ] 配置文件conf\偷你一笑.properties不执行状态
+03-22 21:51:44.854[DEBUG] 获取用户名 贴吧forum_id ,forum_name,回复数
+03-22 21:51:47.088[DEBUG]   <html></html>
+03-22 21:52:07.445[INFO ] 设计者:贴吧生活
+03-22 21:52:07.448[INFO ] 最后更新时间:2014-01-24
+03-22 21:52:07.448[INFO ] 开始任务 初始化配置文件
+03-22 21:52:07.448[INFO ] 检测到文件偷你一笑.properties
+03-22 21:52:07.450[INFO ] 检测到文件只是可惜.properties
+03-22 21:52:07.450[INFO ] 检测到文件小心心哟.properties
+03-22 21:52:07.451[INFO ] 检测到文件我的田俊.properties
+03-22 21:52:07.452[INFO ] 检测到文件撒旦的宠物猫猫.properties
+03-22 21:52:07.454[INFO ] 程序执行完毕
+03-22 21:52:07.458[INFO ] 配置文件conf\小心心哟.properties不执行状态
+03-22 21:52:07.458[INFO ] 配置文件conf\撒旦的宠物猫猫.properties不执行状态
+03-22 21:52:07.458[INFO ] 配置文件conf\我的田俊.properties 初始化完毕
+03-22 21:52:07.458[INFO ] 配置文件conf\只是可惜.properties不执行状态
+03-22 21:52:07.458[INFO ] 配置文件conf\偷你一笑.properties不执行状态
+03-22 21:52:07.487[DEBUG] 获取用户名 贴吧forum_id ,forum_name,回复数
+03-22 21:52:09.485[DEBUG] {"no":0,"data":{"session_id":"TZMRG12QzlZNXRqZXVya1lIdDZlQTM5SUN3NXItNXBhWUNPa01JVTFnYk5MVUJUQ","user_portrait":"ddd2ced2b5c4ccefbfa19a2f","user_name_url":"%CE%D2%B5%C4%CC%EF%BF%A1","user_name_weak":"\u6211\u7684\u7530\u4fca","user_name_link":null,"user_itieba_id":null,"user_name_show":"\u6211\u7684\u7530\u4fca","user_is_verify":0,"is_login":true,"weak_pwd":false,"is_half_user":0,"source_id":0,"no_un":0,"mobilephone":"","email":"702***@qq.com","open_uid":3526071109,"client_msg_count":60,"user_open_space":0},"error":""}
+03-22 21:52:17.926[DEBUG] 检测到到用户我的田俊
+03-22 21:52:17.927[INFO ] 准备进行回复，总执行次数3
+03-22 21:52:18.048[DEBUG] {"tbs":"2d4ea93a75e4f7991395496337","is_login":1}
+03-22 21:52:18.052[DEBUG] 视频文件准备处理：http://v.qq.com/cover/d/d788szy7t0xfjfb.html
+03-22 21:52:18.236[INFO ] 视频文件处理完毕
+03-22 21:52:18.568[DEBUG] {"no":0,"err_code":0,"error":"","data":{"autoMsg":"","fid":3975834,"fname":"\u7b2c\u4e00\u6b21\u4eb2\u5bc6\u7684\u63a5\u89e6","tid":2741375280,"is_login":1,"content":"test22<br>test33<br><div class=\"video_src_wrapper\"><embed allowfullscreen=\"true\" pluginspage=\"http:\/\/www.macromedia.com\/go\/getflashplayer\" type=\"application\/x-shockwave-flash\" wmode=\"transparent\" play=\"true\" loop=\"false\" menu=\"false\" allowscriptaccess=\"never\" scale=\"noborder\" src=\"http:\/\/static.video.qq.com\/TPout.swf?vid=9oE9GVsDIPp&showend=1&title=%E6%96%B0%E5%A4%A9%E7%94%9F%E4%B8%80%E5%AF%B9\" class=\"BDE_Flash\" width=\"500\" height=\"450\" vsrc=\"http:\/\/v.qq.com\/cover\/d\/d788szy7t0xfjfb.html\" vpic=\"http:\/\/vpic.video.qq.com\/29185731\/9oE9GVsDIPp_160_90_3.jpg\" pkey=\"a44aea4f32c7042947f0b1616775702b\"><span class=\"apc_src_wrapper\">\u89c6\u9891\u6765\u81ea\uff1a<a href=\"http:\/\/v.qq.com\/cover\/d\/d788szy7t0xfjfb.html\" target=\"_blank\">\u817e\u8baf\u89c6\u9891<\/a><\/span><\/div>","vcode":{"need_vcode":0,"str_reason":"\u5e26\u56fe\u8d34\u5148\u53d1\u540e\u5ba1","captcha_vcode_str":"","captcha_code_type":0,"userstatevcode":0}}}
+03-22 21:52:18.570[INFO ] 我的田俊,回复成功 
+03-22 21:52:20.001[DEBUG] {"tbs":"00796076a116bb4e1395496339","is_login":1}
+03-22 21:52:20.003[DEBUG] 视频文件准备处理：http://v.qq.com/cover/j/j8u6h3dhyw0ppy2.html
+03-22 21:52:20.203[INFO ] 视频文件处理完毕
+03-22 21:52:20.544[DEBUG] {"no":0,"err_code":0,"error":"","data":{"autoMsg":"","fid":3975834,"fname":"\u7b2c\u4e00\u6b21\u4eb2\u5bc6\u7684\u63a5\u89e6","tid":2741375280,"is_login":1,"content":"test222<br>test333<br><div class=\"video_src_wrapper\"><embed allowfullscreen=\"true\" pluginspage=\"http:\/\/www.macromedia.com\/go\/getflashplayer\" type=\"application\/x-shockwave-flash\" wmode=\"transparent\" play=\"true\" loop=\"false\" menu=\"false\" allowscriptaccess=\"never\" scale=\"noborder\" src=\"http:\/\/static.video.qq.com\/TPout.swf?vid=9tlFSepEHqC&showend=1&title=%E6%83%B3%E7%88%B1%E5%B0%B1%E7%88%B1\" class=\"BDE_Flash\" width=\"500\" height=\"450\" vsrc=\"http:\/\/v.qq.com\/cover\/j\/j8u6h3dhyw0ppy2.html\" vpic=\"http:\/\/vpic.video.qq.com\/67199784\/9tlFSepEHqC_160_90_3.jpg\" pkey=\"ea51afe2a70052a0c1fe416418be7624\"><span class=\"apc_src_wrapper\">\u89c6\u9891\u6765\u81ea\uff1a<a href=\"http:\/\/v.qq.com\/cover\/j\/j8u6h3dhyw0ppy2.html\" target=\"_blank\">\u817e\u8baf\u89c6\u9891<\/a><\/span><\/div>","vcode":{"need_vcode":0,"str_reason":"\u5e26\u56fe\u8d34\u5148\u53d1\u540e\u5ba1","captcha_vcode_str":"","captcha_code_type":0,"userstatevcode":0}}}
+03-22 21:52:20.545[INFO ] 我的田俊,回复成功 
+03-22 21:52:21.992[DEBUG] {"tbs":"90d8c1c705f16e781395496341","is_login":1}
+03-22 21:52:21.994[DEBUG] 视频文件准备处理：http://v.qq.com/cover/j/j5kqrx47bius9t0.html
+03-22 21:52:22.192[INFO ] 视频文件处理完毕
+03-22 21:52:22.543[DEBUG] {"no":0,"err_code":0,"error":"","data":{"autoMsg":"","fid":3975834,"fname":"\u7b2c\u4e00\u6b21\u4eb2\u5bc6\u7684\u63a5\u89e6","tid":2741375280,"is_login":1,"content":"test2<br>test3<br><div class=\"video_src_wrapper\"><embed allowfullscreen=\"true\" pluginspage=\"http:\/\/www.macromedia.com\/go\/getflashplayer\" type=\"application\/x-shockwave-flash\" wmode=\"transparent\" play=\"true\" loop=\"false\" menu=\"false\" allowscriptaccess=\"never\" scale=\"noborder\" src=\"http:\/\/static.video.qq.com\/TPout.swf?vid=9xs85KNyOhY&showend=1&title=%E5%8F%98%E8%BA%AB%E7%94%B7%E5%A5%B3\" class=\"BDE_Flash\" width=\"500\" height=\"450\" vsrc=\"http:\/\/v.qq.com\/cover\/j\/j5kqrx47bius9t0.html\" vpic=\"http:\/\/vpic.video.qq.com\/30644147\/9xs85KNyOhY_160_90_3.jpg\" pkey=\"20699abe075ac0b5231ba5a0b063ffc6\"><span class=\"apc_src_wrapper\">\u89c6\u9891\u6765\u81ea\uff1a<a href=\"http:\/\/v.qq.com\/cover\/j\/j5kqrx47bius9t0.html\" target=\"_blank\">\u817e\u8baf\u89c6\u9891<\/a><\/span><\/div>","vcode":{"need_vcode":0,"str_reason":"\u5e26\u56fe\u8d34\u5148\u53d1\u540e\u5ba1","captcha_vcode_str":"","captcha_code_type":0,"userstatevcode":0}}}
+03-22 21:52:22.546[INFO ] 我的田俊,回复成功 
