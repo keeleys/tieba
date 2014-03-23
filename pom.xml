@@ -31,6 +31,7 @@
 		<module>tieba-votes</module>
 		<module>tieba-core</module>
 		<module>tieba-reply</module>
+		<module>tieba-vestweb</module>
 	</modules>
 
 	<dependencyManagement>

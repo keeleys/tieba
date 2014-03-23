@@ -124,7 +124,7 @@ public class Tp implements Runnable{
 		int no=new Gson().fromJson(str, ResultJson.class).no;
 		switch(no){
 		case 0:
-			System.out.println(bduss.getUsername()+"-喜欢成功");
+			log.info("用户 "+bduss.getUsername()+"-喜欢成功");
 			break;
 		case 221:
 			log.info("用户 "+ bduss.getUsername()+",已经是喜欢了");
@@ -189,7 +189,7 @@ public class Tp implements Runnable{
 		try {
 			long start = System.currentTimeMillis();
 			for(Bduss b :bdussList){
-				new Thread(new PollControl(b)).start();
+				new Thread(new PollControl(b)).run();
 				if(sleep!=null)
 					Thread.sleep(sleep);
 			}
